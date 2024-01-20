@@ -25,9 +25,7 @@ Als Nebenfach studiere ich Französisch. Die Verbindung Kunstgeschichte und Fran
 # Fazit:
 Ich bin mit meiner Entscheidung, vom Beruf in ein Studium zu wechseln, ohne Zweifel zufrieden.
 
-Alternativtext ist ein kurzer Text, der den Informationen im Bild entspricht. Umschließe dann den Link für das Bild mit Klammern ().
-
-![Abb.: Leonardo da Vinci: Mona Lisa (La Joconde)1 1503-1505, Portrait, Öl auf Holz, 77 cm x 53 cm, Musée du Louvre, Paris](https://github.com/marcus-fritz/Fritz_letzterSchuss.wiki.git)
-
+(https://github.com/marcus-fritz/Fritz_letzterSchuss.wiki.git)
+![Abb.: Leonardo da Vinci: Mona Lisa (La Joconde)1 1503-1505, Portrait, Öl auf Holz, 77 cm x 53 cm, Musée du Louvre, Paris]
 
 
