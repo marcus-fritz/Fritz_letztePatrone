@@ -24,3 +24,5 @@ Als Nebenfach studiere ich Französisch. Die Verbindung Kunstgeschichte und Fran
 
 # Fazit:
 Ich bin mit meiner Entscheidung, vom Beruf in ein Studium zu wechseln, ohne Zweifel zufrieden.
+
+![Abb.: Leonardo da Vinci: Mona Lisa (La Joconde)1 1503-1505, Portrait, Öl auf Holz, 77 cm x 53 cm, Musée du Louvre, Paris]
